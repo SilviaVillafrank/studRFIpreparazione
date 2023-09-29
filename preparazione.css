@@ -1,0 +1,28 @@
+body {
+    background-color: #ffffff; /* Imposta il background bianco */
+    margin: 0; /* Rimuovi il margine predefinito del body */
+    padding: 0; /* Rimuovi il padding predefinito del body */
+}
+
+h2 {
+    color: #000000;
+        margin: 0;
+        /* Rimuovi il margine predefinito dell'h2 */
+        font-size: 32px;
+        /* Imposta la dimensione del testo (puoi regolare il valore a tuo piacimento) */
+        margin-top: 100px;
+        /* Imposta il margine superiore (spazio tra il logo e il testo) */
+        white-space: nowrap;
+    /* Impedisce il testo di andare a capo */
+    display: flex;
+    margin-left: -195px;
+    text-align: center;
+}
+
+.icona {
+    font-size:20px;
+    text-align: center;
+    font-size: 4em; /* Imposta la dimensione dell'icona */
+    margin-top: 20px; /* Aumenta il margine superiore tra h2 e icona */
+    color: #006558; /* Cambia il colore dell'icona (rosso in questo caso) */
+}
